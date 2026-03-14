@@ -1,0 +1,1 @@
+For deploying Azure app service was chosen over Virtual machine because Azure App Service is a fully managed platform that simplifies the process of deployment and helps managing the web applications. It has built in features like continuous deployment, integrated authentication, and easy configuration.
